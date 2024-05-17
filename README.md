@@ -40,7 +40,7 @@ Stack :
   
 # Français
 
-## Block News
+## Share
 
 Share est un projet créé durant le Hackathon d'Allfeat et, bien qu'incomplet, il a été récompensé comme le deuxième meilleur projet de l'évènement. C'est une plateforme qui permet aux artistes du monde de la musique de partager leurs pistes afin que les utilisateurs puissent les acheter et les utiliser dans leur musique. La technologie blockchain est utilisée pour prouver que les pistes ont bien été achetées par un utilisateur et non volées, en utilisant des NFT.
 
