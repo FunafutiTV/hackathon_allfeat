@@ -27,7 +27,7 @@ Two smart contracts :
 Stack :
 - Solidity
 - Hardhat
-- OpenZeppelin ERC115 contract
+- OpenZeppelin ERC1155 contract
 
 ### Frontend
 
