@@ -18,6 +18,10 @@ Share is a project that was created during the Allfeat Hackathon, and although i
 - DiasNabil
 - FunafutiTV
 
+### Links
+
+- App deployed to <a href="https://allfeat-share.vercel.app/">Vercel</a>
+
 ### Backend
 
 Two smart contracts :
@@ -57,6 +61,10 @@ Share est un projet créé durant le Hackathon d'Allfeat et, bien qu'incomplet, 
 - Neal
 - DiasNabil
 - FunafutiTV
+
+### Liens
+
+- Application déployée sur <a href="https://allfeat-share.vercel.app/">Vercel</a>
 
 ### Backend
 
